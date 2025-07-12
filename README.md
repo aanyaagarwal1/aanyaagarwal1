@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I am Aanya
+A curious learner fueled by caffeine and curiosity.
+I recently started my coding journey and I love turning ideas into projects — one line of code (and one cup of coffee) at a time.
+Building, breaking, learning, and creating — every single day. 🚀✨
 <!--
 **aanyaagarwal1/aanyaagarwal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
