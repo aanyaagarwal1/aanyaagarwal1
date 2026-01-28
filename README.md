@@ -1,8 +1,8 @@
 ## Hi there 👋
 I am Aanya
 a curious learner fueled by caffeine and curiosity.
-I recently started my coding journey and I love turning ideas into projects — one line of code at a time.
-Building, breaking, learning, and creating — every single day. 🚀✨
+I recently started my coding journey (again).
+Trying to be consistent this time.
 
 [![Aanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aanyaagarwal1)](https://github.com/aanyaagarwal1/github-readme-stats)
 <!--
