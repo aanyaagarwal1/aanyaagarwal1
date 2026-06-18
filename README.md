@@ -1,11 +1,11 @@
-# Hi, I'm Aanya Agarwal 👋
+# Hi, I'm Aanya Agarwal 
 
 **Data Analytics & Data Engineering**  
 Computer Science student passionate about Data Analytics and Data Engineering. I enjoy building reliable data pipelines, working with cloud technologies, and turning complex datasets into meaningful insights.
 
 ---
 
-## 🧰 Tech Stack
+##Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,26 +32,26 @@ Computer Science student passionate about Data Analytics and Data Engineering. I
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🏦 [Loan Approval Prediction System](https://github.com/aanyaagarwal1/Loan-Approval-Prediction-System)
-Built an end-to-end ML classification pipeline to predict loan approval status using applicant financial data.  
-`Python` `Scikit-learn` `Pandas` `Seaborn` `Random Forest` `Logistic Regression`
-
-### 📊 [Olist Analytics](https://github.com/aanyaagarwal1/Olist-Analytics)
+### [Olist Analytics](https://github.com/aanyaagarwal1/Olist-Analytics)
 End-to-end analytics project on Brazilian e-commerce data — EDA, KPIs, and business insights.  
 `Python` `Pandas` `Matplotlib` `Data Visualization`
 
+### [Loan Approval Prediction System](https://github.com/aanyaagarwal1/Loan-Approval-Prediction-System)
+Built an end-to-end ML classification pipeline to predict loan approval status using applicant financial data.  
+`Python` `Scikit-learn` `Pandas` `Seaborn` `Random Forest` `Logistic Regression`
+
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Aanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanyaagarwal1&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanyaagarwal1&layout=compact&hide_border=true)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aanya-agarwal-14052006agg)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aanyaagarwal1405@gmail.com)
