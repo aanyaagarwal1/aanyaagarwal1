@@ -44,12 +44,6 @@ Built an end-to-end ML classification pipeline to predict loan approval status u
 
 ---
 
-## GitHub Stats
-
-![Aanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanyaagarwal1&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aanyaagarwal1&layout=compact&hide_border=true)
-
----
 
 ## Let's Connect
 
