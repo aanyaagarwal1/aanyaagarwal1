@@ -5,7 +5,7 @@ Computer Science student passionate about Data Analytics and Data Engineering. I
 
 ---
 
-##Tech Stack
+Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
