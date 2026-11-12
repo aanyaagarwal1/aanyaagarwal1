@@ -70,23 +70,6 @@ An analytics project exploring merchant delivery risk, cancellation patterns, an
 
 ---
 
-## 🔬 Research Experience
-
-**Machine Learning Research Intern | ELC Project**  
-Thapar Institute of Engineering & Technology | June 2026 – July 2026
-
-- Developed explainable machine learning models in Python for early GDM risk prediction.
-- Benchmarked Random Forest, XGBoost, LightGBM, and CatBoost classifiers using cross-validation.
-- Applied SHAP-based explainability to understand influential clinical risk factors.
-
-**Research Publication**
-
-*Explainable ML Framework for Early Prediction of Gestational Diabetes Mellitus Without OGTT Using LLM-Assisted Clinical Report Analysis*
-
-Accepted at **icSoftComp2026** — 8th International Conference on Soft Computing and its Engineering Applications.
-
----
-
 ## 🛠️ Technical Skills
 
 **Languages**
